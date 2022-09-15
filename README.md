@@ -1,4 +1,4 @@
-### About
+# About
 
 <!--
 **danieljordan2/danieljordan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 I'm a mathematician and data science professional with expertise in machine learning, artificial intelligence, data processing, and visualization. Can extract insightful information from data to use for business and research enhancement.
 
-General skills: data science, machine learning, data analytics, predictive modeling, data visualization, and feature engineering.
+* General skills: data science, machine learning, data analytics, predictive modeling, data visualization, and feature engineering.
 
-Specific skills: supervised learning, unsupervised learning, clustering, PCA, statistics, EDA, decision trees, random forest, regression, time series, neural networks, deep learning, CNN, sampling, bagging, and boosting.
+* Specific skills: supervised learning, unsupervised learning, clustering, PCA, statistics, EDA, decision trees, random forest, regression, time series, neural networks, deep learning, CNN, sampling, bagging, and boosting.
 
-Python libraries: Pandas, Numpy, Scipy, Sklearn, TensorFlow, PyTorch, Matplotlib, Seaborn, Jupyter, Keras.
-
-My portfolio homepage: https://github.com/danieljordan2
+* Python libraries: Pandas, Numpy, Scipy, Sklearn, TensorFlow, PyTorch, Matplotlib, Seaborn, Jupyter, Keras.
