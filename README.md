@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data science and math professional with expertise in machine learning, artificial intelligence, data processing, and visualization. Can extract insightful information from data to use for business and research enhancement.
+I'm a data science and math professional with expertise in machine learning, artificial intelligence, data processing, and visualization. Can extract insightful information from data to use for business and research enhancement. Strong analytical and problem-solving skills, team collaboration oriented, and communicates results effectively.
 
 * General skills: data science, machine learning, data analytics, predictive modeling, data visualization, and feature engineering.
 
